@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: montserrat;
+    background-color: #bccfdb;
+}
+
+.profile {
+    color: #608caa;
+    margin-top: 100px;
+    margin-left: 400px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.greet {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    border-radius: 30px;
+    border: 1px;
+    border-style: solid;
+    border-color: #608caa;
+    margin-left: 30px;
+}
+
+nav {
+    color: rgb(0, 0, 0);
+    background-color: #608caa;
+    padding: 40px;
+    
+}
+
+a {
+    margin-left: 30px;
+    color: white;
+}
+
+a:hover {
+  color: #8ac4eb;
+  transition: 0.30s;
+}
+
+.karl {
+    color: #608caa;
+    border-radius: 10px;
+    font-size: 80px;
+}
+
+.hi {
+    color: white;
+}
+
+.aboutme {
+    width: 800px;
+}
+
+#about {
+    margin-left: 90px;
+    line-height: 28px;
+}
+
+#credentials {
+    margin-left: 90px;
+    line-height: 28px;
+}
+
+hr {
+    border: 0;
+    border-top: 2px solid #68869a;
+    width: 100px;
+    margin: 10px 0 20px;
+}
+
+#contact {
+  margin-left: 90px;
+  width: 600px;
+}
